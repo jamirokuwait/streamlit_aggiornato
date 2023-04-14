@@ -1,7 +1,7 @@
+streamlit
 matplotlib
 numpy
 pandas
 stack-data
 statsbombpy
-streamlit
 unicodedata
